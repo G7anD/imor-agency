@@ -51,10 +51,11 @@ export const casesData: CaseStudy[] = [
             en: "Marketing Partner",
             tj: "Ҳамкори маркетинг"
         },
-        coverImage: "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80",
+        coverImage: "/portfolio/oq-mahalla/cover.webp",
         galleryImages: [
-            "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&q=80",
-            "https://images.unsplash.com/photo-1600607687920-4e2a09be15ea?w=800&q=80"
+            "/portfolio/oq-mahalla/gallery-1.webp",
+            "/portfolio/oq-mahalla/gallery-2.webp",
+            "/portfolio/oq-mahalla/gallery-3.webp"
         ],
         results: {
             uz: ["12,8% liddan tashrifga konversiya", "$0,7 – lid narxi (CPL)", "17 ta aniq sotuv"],
@@ -99,8 +100,12 @@ export const casesData: CaseStudy[] = [
             en: "Marketing Partner",
             tj: "Ҳамкори маркетинг"
         },
-        coverImage: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
-        galleryImages: [],
+        coverImage: "/portfolio/navbahor/cover.webp",
+        galleryImages: [
+            "/portfolio/navbahor/gallery-1.webp",
+            "/portfolio/navbahor/gallery-2.webp",
+            "/portfolio/navbahor/gallery-3.webp"
+        ],
         results: {
             uz: ["Natijalar tez kunda e'lon qilinadi"],
             ru: ["Результаты будут объявлены в ближайшее время"],
@@ -192,10 +197,10 @@ export const casesData: CaseStudy[] = [
             en: "Marketing Partner",
             tj: "Ҳамкори маркетинг"
         },
-        coverImage: "https://images.unsplash.com/photo-1428366890462-dd4baecf492b?w=800&q=80",
+        coverImage: "/portfolio/manzara/cover.webp",
         galleryImages: [
-            "https://images.unsplash.com/photo-1601334648719-75b47d8b58a1?w=800&q=80",
-            "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80"
+            "/portfolio/manzara/gallery-1.webp",
+            "/portfolio/manzara/gallery-2.webp"
         ],
         results: {
             uz: ["53,7% sifatli lid konversiyasi", "14 ta sotuv", "153$ – bitta mijoz narxi (CAC)"],
@@ -240,10 +245,11 @@ export const casesData: CaseStudy[] = [
             en: "Marketing Partner",
             tj: "Ҳамкори маркетинг"
         },
-        coverImage: "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=800&q=80",
+        coverImage: "/portfolio/saxovat-uylari/cover.webp",
         galleryImages: [
-            "https://images.unsplash.com/photo-1616077168079-7e09a6a71e4b?w=800&q=80",
-            "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80"
+            "/portfolio/saxovat-uylari/gallery-1.webp",
+            "/portfolio/saxovat-uylari/gallery-2.webp",
+            "/portfolio/saxovat-uylari/gallery-3.webp"
         ],
         results: {
             uz: ["Natijalar tez kunda e'lon qilinadi"],
@@ -288,10 +294,11 @@ export const casesData: CaseStudy[] = [
             en: "Marketing Partner",
             tj: "Ҳамкори маркетинг"
         },
-        coverImage: "https://images.unsplash.com/photo-1545622783-b3e0214301cd?w=800&q=80",
+        coverImage: "/portfolio/arkand-group/cover.webp",
         galleryImages: [
-            "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
-            "https://images.unsplash.com/photo-1600607687920-4e2a09be15ea?w=800&q=80"
+            "/portfolio/arkand-group/gallery-1.webp",
+            "/portfolio/arkand-group/gallery-2.webp",
+            "/portfolio/arkand-group/gallery-3.webp"
         ],
         results: {
             uz: ["Natijalar tez kunda e'lon qilinadi"],
