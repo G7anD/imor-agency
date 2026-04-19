@@ -28,7 +28,7 @@ export default function AboutSection({ lang = 'uz' }: { lang?: string }) {
 
     return (
         <section id="about" className="py-20 sm:py-32 bg-surface relative overflow-hidden">
-            <div className="absolute top-1/2 left-0 w-[500px] h-[500px] bg-primary/10 rounded-full blur-[100px] -translate-y-1/2 -translate-x-1/2 pointer-events-none" />
+            <div className="absolute top-1/2 left-0 w-[420px] h-[420px] bg-primary/10 rounded-full blur-[70px] -translate-y-1/2 -translate-x-1/2 pointer-events-none" />
 
             <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
                 <div className="flex flex-col xl:flex-row justify-between items-start gap-12 sm:gap-16 xl:gap-24">

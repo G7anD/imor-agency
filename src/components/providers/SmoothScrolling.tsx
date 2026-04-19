@@ -22,7 +22,7 @@ export default function SmoothScrolling({ children }: { children: ReactNode }) {
     }
 
     return (
-        <LenisComponent root options={{ lerp: 0.1, smoothWheel: true }}>
+        <LenisComponent root options={{ lerp: 0.12, smoothWheel: true, syncTouch: false }}>
             {children}
         </LenisComponent>
     );

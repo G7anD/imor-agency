@@ -16,33 +16,42 @@ export default function CustomCursor() {
     const cursorYSpring = useSpring(cursorY, springConfig);
 
     useEffect(() => {
+        // Skip on touch/coarse-pointer devices — cursor is pointless and costly there.
+        const hoverMQ = window.matchMedia("(hover: hover) and (pointer: fine)");
+        if (!hoverMQ.matches) return;
+
         setIsMounted(true);
 
-        const moveCursor = (e: MouseEvent) => {
-            cursorX.set(e.clientX);
-            cursorY.set(e.clientY);
+        let rafId = 0;
+        let lastX = 0;
+        let lastY = 0;
+        let lastTarget: EventTarget | null = null;
 
-            // Check if hovering over clickable elements
-            const target = e.target as HTMLElement;
-            const computedStyle = window.getComputedStyle(target);
-
-            const isClickable =
-                target.tagName.toLowerCase() === 'a' ||
-                target.tagName.toLowerCase() === 'button' ||
-                target.closest('a') !== null ||
-                target.closest('button') !== null ||
-                computedStyle.cursor === 'pointer';
-
-            setIsPointer(isClickable);
-
-            // Look for elements with specific class or strong tags inside interactive components
-            const isSpecialHover = target.tagName.toLowerCase() === 'strong' || target.classList.contains('text-gradient');
-            setIsHovering(isSpecialHover);
+        const updateHoverState = () => {
+            const el = lastTarget as HTMLElement | null;
+            if (!el) return;
+            const clickable = el.closest('a, button, [role="button"], input, textarea, select, label, [data-cursor="pointer"]');
+            setIsPointer(!!clickable);
+            setIsHovering(el.tagName === "STRONG" || el.classList.contains("text-gradient"));
         };
 
-        window.addEventListener("mousemove", moveCursor);
+        const moveCursor = (e: MouseEvent) => {
+            lastX = e.clientX;
+            lastY = e.clientY;
+            lastTarget = e.target;
+            if (rafId) return;
+            rafId = requestAnimationFrame(() => {
+                cursorX.set(lastX);
+                cursorY.set(lastY);
+                updateHoverState();
+                rafId = 0;
+            });
+        };
+
+        window.addEventListener("mousemove", moveCursor, { passive: true });
         return () => {
             window.removeEventListener("mousemove", moveCursor);
+            if (rafId) cancelAnimationFrame(rafId);
         };
     }, [cursorX, cursorY]);
 
@@ -55,7 +64,7 @@ export default function CustomCursor() {
     return (
         <>
             <motion.div
-                className="fixed top-0 left-0 w-4 h-4 rounded-full bg-primary z-[100] pointer-events-none mix-blend-screen"
+                className="fixed top-0 left-0 w-4 h-4 rounded-full bg-primary z-[100] pointer-events-none will-change-transform"
                 style={{
                     x: cursorXSpring,
                     y: cursorYSpring,
@@ -69,7 +78,7 @@ export default function CustomCursor() {
                 transition={{ duration: 0.15 }}
             />
             <motion.div
-                className="fixed top-0 left-0 w-8 h-8 rounded-full border border-primary/50 z-[99] pointer-events-none"
+                className="fixed top-0 left-0 w-8 h-8 rounded-full border border-primary/50 z-[99] pointer-events-none will-change-transform"
                 style={{
                     x: cursorXSpring,
                     y: cursorYSpring,

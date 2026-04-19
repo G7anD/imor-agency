@@ -54,7 +54,7 @@ export default function ServicesSection({ lang = 'uz' }: ServicesProps) {
 
     return (
         <section id="services" ref={containerRef} className="py-20 sm:py-32 relative bg-background">
-            <div className="absolute top-0 right-0 w-[800px] h-[800px] bg-primary/5 rounded-full blur-[120px] pointer-events-none" />
+            <div className="absolute top-0 right-0 w-[600px] h-[600px] bg-primary/5 rounded-full blur-[80px] pointer-events-none" />
 
             <div className="container mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="flex flex-col lg:flex-row gap-12 sm:gap-16 lg:gap-24 items-start">
