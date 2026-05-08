@@ -1,0 +1,263 @@
+{
+  "items": [
+    {
+      "slug": "manzara",
+      "name": "Manzara TJM",
+      "type": "premium",
+      "city": "Toshkent",
+      "year": "2024",
+      "service": "Strategiya · Production · Target",
+      "duration": "8 oy",
+      "summary": "Premium turar joy majmuasi uchun pod-klyuch sotuv tizimi. CPL — atigi $1.0.",
+      "cover": "/cases/manzara/cover.webp",
+      "gallery": [
+        "/cases/manzara/01.webp",
+        "/cases/manzara/02.webp"
+      ],
+      "kpi": [
+        {
+          "label": "Marketing xarajatlari",
+          "value": "$1045"
+        },
+        {
+          "label": "Lid narxi (CPL)",
+          "value": "$1,0<span>/lid</span>",
+          "accent": true
+        },
+        {
+          "label": "Lid → tashrif",
+          "value": "38,5<span>%</span>"
+        },
+        {
+          "label": "Tashrif → sotuv",
+          "value": "6,5<span>%</span>"
+        },
+        {
+          "label": "CAC",
+          "value": "$153"
+        },
+        {
+          "label": "Sotuvlar soni",
+          "value": "14"
+        }
+      ],
+      "challenge": "Premium segmentda lid narxi yuqori va sifati past edi. Sotuv bo'limi voronkani to'g'ri yuritmas edi.",
+      "approach": [
+        "Bozor va raqobatchilar tahlili (5 kun)",
+        "Yangi pozitsionlash va vizual brending",
+        "Reels va video kontent ishlab chiqarish (oyiga 24+)",
+        "Facebook & Instagram target reklama (lookalike + retargeting)",
+        "CRM integratsiyasi va sotuv skripti"
+      ],
+      "result": "8 oy ichida 556 ta sifatli lid, 14 ta sotuv. CPL bozordagi o'rtachadan 6 barobar past."
+    },
+    {
+      "slug": "zangiota",
+      "name": "Zangiota City",
+      "type": "comfort",
+      "city": "Toshkent",
+      "year": "2023",
+      "service": "Strategiya · Kontent · Target",
+      "duration": "6 oy",
+      "summary": "Toshkent yashil zonadagi turar joy majmuasi — yosh oilalar uchun comfort segment va sifatli lidogeneratsiya.",
+      "cover": "/cases/zangiota/cover.webp",
+      "gallery": [
+        "/cases/zangiota/01.webp",
+        "/cases/zangiota/02.webp",
+        "/cases/zangiota/03.webp"
+      ],
+      "kpi": [
+        {
+          "label": "Marketing xarajat",
+          "value": "$1300"
+        },
+        {
+          "label": "Sotuvlar soni",
+          "value": "27"
+        },
+        {
+          "label": "CAC",
+          "value": "$170"
+        },
+        {
+          "label": "Sifatli lid",
+          "value": "40%",
+          "accent": true
+        },
+        {
+          "label": "Tashrif → sotuv",
+          "value": "49%",
+          "accent": true
+        },
+        {
+          "label": "Lid narxi (CPL)",
+          "value": "$0,93"
+        }
+      ],
+      "challenge": "Yangi yo'nalish, brend taniqli emas. Maqsadli auditoriya — 27–38 yosh oilalar.",
+      "approach": [
+        "Family-friendly pozitsionlash",
+        "Hayot tarzi haqida kontent (har hafta 6+)",
+        "Geo-target reklama (Toshkent va viloyatlar)",
+        "WhatsApp + CRM integratsiyasi",
+        "Sotuv bo'limi bilan kunlik aloqa"
+      ],
+      "result": "6 oy ichida brend tanildi, sifatli lidlar oqimi barqarorlashdi. Yosh oilalar segmentida pozitsiya mustahkamlandi."
+    },
+    {
+      "slug": "bochka",
+      "name": "Bochka Resort",
+      "type": "horeca",
+      "city": "Chorvoq",
+      "year": "2024",
+      "service": "Strategiya · Production · Target · Brending",
+      "duration": "10 oy",
+      "summary": "Chorvoq dam olish maskani uchun pod-klyuch marketing tizimi — sifatli lidlar va CRM avtomatizatsiyasi.",
+      "cover": "/cases/bochka/cover.webp",
+      "gallery": [
+        "/cases/bochka/01.webp",
+        "/cases/bochka/02.webp",
+        "/cases/bochka/03.webp"
+      ],
+      "kpi": [
+        {
+          "label": "Marketing xarajat",
+          "value": "$1130"
+        },
+        {
+          "label": "Sotuvlar soni",
+          "value": "28"
+        },
+        {
+          "label": "Lid narxi",
+          "value": "$0,72"
+        },
+        {
+          "label": "Sifatli lid",
+          "value": "50,2%",
+          "accent": true
+        },
+        {
+          "label": "Tashrif → sotuv",
+          "value": "34%",
+          "accent": true
+        },
+        {
+          "label": "CAC",
+          "value": "$243,9"
+        }
+      ],
+      "challenge": "HoReCa segmentida lid sifati past edi, qo'lda qayta ishlashda mijozlar yo'qoldi. Tizim kerak edi.",
+      "approach": [
+        "Auditoriya segmentatsiyasi va offer tahlili",
+        "Premium kontent va Reels (haftada 8+)",
+        "Lookalike + retargeting reklama strategiyasi",
+        "CRM avtomatizatsiyasi (lid → bron → savdo)",
+        "Sotuv skripti va xodimlar treningi"
+      ],
+      "result": "Lid sifati 50%+ ga ko'tarildi, 28 ta sotuv. Tizim avtomatik ishlay boshladi, qo'l mehnati 70% ga kamaydi."
+    },
+    {
+      "slug": "oq-mahalla",
+      "name": "Oq Mahalla",
+      "type": "comfort",
+      "city": "Toshkent · M. Ulug'bek",
+      "year": "2023",
+      "service": "Target · Kontent",
+      "duration": "5 oy",
+      "summary": "Eng past CPL — bozordagi o'rtachadan 8 barobar past.",
+      "cover": "/cases/oq-mahalla/cover.webp",
+      "gallery": [
+        "/cases/oq-mahalla/01.webp",
+        "/cases/oq-mahalla/02.webp",
+        "/cases/oq-mahalla/03.webp"
+      ],
+      "kpi": [
+        {
+          "label": "Marketing xarajat",
+          "value": "$1139"
+        },
+        {
+          "label": "Sifatli lidlar",
+          "value": "710"
+        },
+        {
+          "label": "Lid narxi",
+          "value": "$0,7"
+        },
+        {
+          "label": "Sifatli lid",
+          "value": "44,9%",
+          "accent": true
+        },
+        {
+          "label": "Lid → tashrif",
+          "value": "12,8%",
+          "accent": true
+        },
+        {
+          "label": "Sotuvlar",
+          "value": "17"
+        }
+      ],
+      "challenge": "Cheklangan byudjet, mahalliy bozor, brend yangi.",
+      "approach": [
+        "Hyper-local target (mahallaga yaqin 5km)",
+        "User-generated content (UGC) yondashuvi",
+        "Telegram bot orqali avtomatik filtr"
+      ],
+      "result": "Bizning eng past CPL keysimiz — $0.7. 710 sifatli lid, 17 sotuv."
+    },
+    {
+      "slug": "navbahor",
+      "name": "Navbahor",
+      "type": "comfort",
+      "city": "TJM",
+      "year": "2024",
+      "service": "Strategiya · Production · Target",
+      "duration": "7 oy",
+      "summary": "Mahalliy moslashtirilgan strategiya — eng arzon CPL bilan ishladi.",
+      "cover": "/cases/navbahor/cover.webp",
+      "gallery": [
+        "/cases/navbahor/01.webp",
+        "/cases/navbahor/02.webp",
+        "/cases/navbahor/03.webp"
+      ],
+      "kpi": [
+        {
+          "label": "Marketing xarajat",
+          "value": "$947"
+        },
+        {
+          "label": "Sifatli lidlar",
+          "value": "669"
+        },
+        {
+          "label": "Lid narxi (CPL)",
+          "value": "$0,7"
+        },
+        {
+          "label": "Sifatli lid",
+          "value": "50,9%",
+          "accent": true
+        },
+        {
+          "label": "Lid → tashrif",
+          "value": "15,1%",
+          "accent": true
+        },
+        {
+          "label": "Sotuvlar",
+          "value": "12"
+        }
+      ],
+      "challenge": "Toshkentdan tashqari bozor. Mahalliy mentalitet va kanallar bilan ishlash.",
+      "approach": [
+        "Mahalliy auditoriya uchun alohida kontent strategiyasi",
+        "O'zbek tilidagi kontent ustuvor",
+        "Mahalliy bloggerlar bilan kollaboratsiya"
+      ],
+      "result": "7 oy davomida 669 lid, 12 sotuv. Eng yuqori sifat ko'rsatkichi."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        NEXT_PUBLIC_SITE_URL: ${NEXT_PUBLIC_SITE_URL}
+        NEXT_PUBLIC_GA_ID: ${NEXT_PUBLIC_GA_ID}
+        NEXT_PUBLIC_YM_ID: ${NEXT_PUBLIC_YM_ID}
+    image: imor-agency:latest
+    container_name: imor-web
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    env_file:
+      - .env
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost:3000/uz"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 30s
+    networks:
+      - imor
+
+networks:
+  imor:
+    driver: bridge

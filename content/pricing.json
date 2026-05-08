@@ -1,0 +1,56 @@
+{
+  "tiers": [
+    {
+      "slug": "standard",
+      "name": "Standard",
+      "price": 3000,
+      "currency": "$",
+      "tagline": "Boshlash uchun",
+      "popular": false,
+      "features": [
+        {"label": "Strategiya va Audit", "value": "Asosiy"},
+        {"label": "Kontent (post)", "value": "20/oy"},
+        {"label": "Reels", "value": "8/oy"},
+        {"label": "Target reklama", "value": "Sozlash + boshqarish"},
+        {"label": "CRM integratsiyasi", "value": "—"},
+        {"label": "Hisobot", "value": "Oylik"},
+        {"label": "Trening", "value": "—"}
+      ]
+    },
+    {
+      "slug": "premium",
+      "name": "Premium",
+      "price": 4000,
+      "currency": "$",
+      "tagline": "Optimum tanlov",
+      "popular": true,
+      "features": [
+        {"label": "Strategiya va Audit", "value": "Kengaytirilgan"},
+        {"label": "Kontent (post)", "value": "30/oy"},
+        {"label": "Reels", "value": "16/oy"},
+        {"label": "Target reklama", "value": "Sozlash + A/B test"},
+        {"label": "CRM integratsiyasi", "value": "Asosiy"},
+        {"label": "Hisobot", "value": "2 haftalik"},
+        {"label": "Trening", "value": "Oyiga 1"}
+      ]
+    },
+    {
+      "slug": "top",
+      "name": "Top",
+      "price": 7000,
+      "currency": "$",
+      "tagline": "To'liq paket",
+      "popular": false,
+      "features": [
+        {"label": "Strategiya va Audit", "value": "Premium"},
+        {"label": "Kontent (post)", "value": "45/oy"},
+        {"label": "Reels", "value": "24/oy"},
+        {"label": "Target reklama", "value": "To'liq + lookalike"},
+        {"label": "CRM integratsiyasi", "value": "To'liq"},
+        {"label": "Hisobot", "value": "Haftalik"},
+        {"label": "Trening", "value": "Oyiga 2"}
+      ]
+    }
+  ],
+  "note": "Target reklama uchun byudjet ushbu tariflar ichiga kirmaydi va alohida hisoblanadi."
+}

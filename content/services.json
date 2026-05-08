@@ -1,0 +1,80 @@
+{
+  "items": [
+    {
+      "slug": "strategy",
+      "icon": "01",
+      "title": "Strategiya va Audit",
+      "tagline": "Bozor, raqobatchilar, voronka",
+      "summary": "Bozor tahlili, raqobatchilar, individual marketing strategiyasi va sotuv voronkasi auditi.",
+      "deliverables": [
+        "Bozor va raqobatchilar tahlili hujjati (40+ sahifa)",
+        "Loyiha uchun individual marketing strategiyasi",
+        "Sotuv voronkasi auditi va samarali kanallarni aniqlash",
+        "12 oylik media-plan",
+        "KPI va prognozlar"
+      ],
+      "duration": "10–14 kun",
+      "outcome": "Aniq yo'l xaritasi va prognozlanadigan natijalar."
+    },
+    {
+      "slug": "content-smm",
+      "icon": "02",
+      "title": "Kontent & SMM",
+      "tagline": "Sotuvga yo'naltirilgan",
+      "summary": "Sotuvga yo'naltirilgan kontent-plan, ijtimoiy tarmoqlarni professional yuritish, brending va upakovka.",
+      "deliverables": [
+        "Sotuvga yo'naltirilgan kontent-plan (oyiga 30+ post)",
+        "Instagram va Telegramni professional yuritish",
+        "Vizual brending va upakovka",
+        "Storis va Reels strategiyasi"
+      ],
+      "duration": "Doimiy",
+      "outcome": "Brand awareness va organik lid oqimi."
+    },
+    {
+      "slug": "production",
+      "icon": "03",
+      "title": "Production",
+      "tagline": "Video, Reels, motion",
+      "summary": "Videolar, Reels, motion va grafik kontent ishlab chiqarish.",
+      "deliverables": [
+        "Aerial dron syomkasi",
+        "Professional Reels (oyiga 24+)",
+        "Imij videolari",
+        "Motion va grafik dizayn"
+      ],
+      "duration": "Doimiy",
+      "outcome": "Premium vizual kontent — maxsus kreativ jamoa bilan."
+    },
+    {
+      "slug": "system",
+      "icon": "04",
+      "title": "Tizimlashtirish",
+      "tagline": "CRM, trening, hisobot",
+      "summary": "Xodimlarni o'qitish, CRM sozlash va shaffof hisobotlar.",
+      "deliverables": [
+        "Sotuv menejerlari uchun trening (oyiga 1)",
+        "CRM tizimini sozlash (Bitrix24, AmoCRM)",
+        "Avtomatik dashbord va hisobotlar",
+        "Sotuv skripti va voronka"
+      ],
+      "duration": "1–2 oy",
+      "outcome": "Konversiyaning 2–3 marta o'sishi."
+    },
+    {
+      "slug": "target",
+      "icon": "05",
+      "title": "Target",
+      "tagline": "Facebook, Instagram, lid",
+      "summary": "Facebook & Instagram targetli reklama, lidogeneratsiya va optimizatsiya.",
+      "deliverables": [
+        "Reklama kampaniyalari (Facebook & Instagram)",
+        "Lookalike va retargeting auditoriyalar",
+        "Lidogeneratsiya — sifatli mijozlar oqimi",
+        "Haftalik optimizatsiya va A/B testlar"
+      ],
+      "duration": "Doimiy",
+      "outcome": "CPL va ROMI bo'yicha shaffof natijalar."
+    }
+  ]
+}
