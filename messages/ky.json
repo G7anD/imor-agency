@@ -1,256 +1,256 @@
 {
   "Meta": {
-    "title": "imor.agency — Ko'chmas mulk uchun pod-klyuch sotuv tizimi",
-    "description": "Imor Agency — ko'chmas mulk uchun pod-klyuch marketing va sotuv tizimi. 5 yil tajriba, 15+ loyiha. Strategiya, kontent, production, target.",
-    "ogTitle": "imor.agency — pod-klyuch sotuv tizimi",
-    "ogDescription": "5 yil davomida 15+ developer loyihasini ishga tushirdik. Faqat ko'chmas mulk."
+    "title": "imor.agency — Кыймылсыз мүлк үчүн толук сатуу системасы",
+    "description": "Imor Agency — кыймылсыз мүлк үчүн толук маркетинг жана сатуу системасы. 5 жылдык тажрыйба, 15+ долбоор. Стратегия, контент, продакшн, таргет.",
+    "ogTitle": "imor.agency — толук сатуу системасы",
+    "ogDescription": "5 жылда 15+ девелопер долбоорун ишке киргиздик. Бир гана кыймылсыз мүлк."
   },
   "Brand": {
     "name": "imor agency",
     "since": "since 2021",
-    "tagline": "Natijaga yo'naltirilgan agentlik. Ko'chmas mulk uchun pod-klyuch sotuv va marketing byurosi."
+    "tagline": "Жыйынтыкка багытталган агенттик. Кыймылсыз мүлк рыногу үчүн толук сатуу жана маркетинг бюросу."
   },
   "Nav": {
-    "about": "Biz haqimizda",
-    "services": "Xizmatlar",
-    "cases": "Keyslar",
-    "process": "Ish jarayoni",
-    "pricing": "Tariflar",
-    "contact": "Kontaktlar",
-    "menu": "Menyu",
-    "close": "Yopish",
-    "consultation": "30 daqiqalik konsultatsiya"
+    "about": "Биз жөнүндө",
+    "services": "Кызматтар",
+    "cases": "Кейстер",
+    "process": "Иш процесси",
+    "pricing": "Тарифтер",
+    "contact": "Байланыш",
+    "menu": "Меню",
+    "close": "Жабуу",
+    "consultation": "30 мүнөттүк консультация"
   },
   "Hero": {
-    "ribbon1": "Pod-klyuch xizmat · 5 yil tajriba",
-    "ribbon2": "Strategiya · Production · Target · Kontent · Tizim",
-    "ribbon3": "Toshkent · Mirzo-Ulug'bek",
-    "issueMeta": "Natijaga yo'naltirilgan marketing",
-    "h1Part1Word1": "Ko'chmas",
-    "h1Part1Word2": "mulk",
-    "h1Part1Word3": "uchun",
-    "h1Accent": "pod-klyuch",
-    "h1Part2Word1": "sotuv",
-    "h1Part2Word2": "tizimi.",
-    "sub": "<b>5 yil davomida 15+ developer loyihasini</b> noldan ishga tushirdik — sotuv bo'limini qurish, marketing va undiruv tizimlarini joriy etish. Faqat ko'chmas mulk sohasidagi tajribamiz.",
-    "ctaSub": "Bepul · Hech qanday majburiyat",
+    "ribbon1": "Толук кызмат · 5 жылдык тажрыйба",
+    "ribbon2": "Стратегия · Продакшн · Таргет · Контент · Система",
+    "ribbon3": "Ташкент · Мирзо-Улугбек",
+    "issueMeta": "Жыйынтыкка багытталган маркетинг",
+    "h1Part1Word1": "Кыймылсыз",
+    "h1Part1Word2": "мүлк",
+    "h1Part1Word3": "үчүн",
+    "h1Accent": "толук",
+    "h1Part2Word1": "сатуу",
+    "h1Part2Word2": "системасы.",
+    "sub": "<b>5 жылдын ичинде 15+ девелопер долбоорун нөлдөн ишке киргиздик</b> — сатуу бөлүмүн курдук, маркетинг жана конверсия системаларын жайылттык. Тажрыйбабыз бир гана кыймылсыз мүлк тармагында.",
+    "ctaSub": "Акысыз · Эч кандай милдеттенмесиз",
     "scrollHint": "scroll",
-    "scrollText": "↓ keyslar va tariflar",
-    "statKicker": "Keys 01 — Manzara TJM",
-    "statCap": "<b>Sifatli lid konversiyasi.</b> 556 ta sifatli lid, 14 ta sotuv, CPL — atigi $1.0. Marketing xarajatlari $1045.",
+    "scrollText": "↓ кейстер жана тарифтер",
+    "statKicker": "Кейс 01 — Manzara ТМС",
+    "statCap": "<b>Сапаттуу лид конверсиясы.</b> 556 сапаттуу лид, 14 сатуу, CPL — болгону $1,0. Маркетинг чыгымы — $1045.",
     "miniLab1Top": "Oq Mahalla",
-    "miniLab1Bot": "CPL — eng past",
-    "miniLab2Top": "Loyihalar",
-    "miniLab2Bot": "5 yil ichida",
-    "band1": "Strategiya",
-    "band2": "Kontent",
-    "band3": "Production",
-    "band4": "Target",
-    "band5": "Tizim",
+    "miniLab1Bot": "CPL — эң төмөн",
+    "miniLab2Top": "Долбоорлор",
+    "miniLab2Bot": "5 жылда",
+    "band1": "Стратегия",
+    "band2": "Контент",
+    "band3": "Продакшн",
+    "band4": "Таргет",
+    "band5": "Система",
     "band6": "CRM",
-    "band7": "Brending",
-    "band8": "Analitika"
+    "band7": "Брендинг",
+    "band8": "Аналитика"
   },
   "Advantages": {
-    "kicker": "Afzalliklarimiz — 4 nuqta",
-    "h2": "Marketing — xarajat <em>emas</em>, sarmoya bo'lishi kerak.",
-    "sub": "<b>Imor Agency yondashuvi</b> aynan shu tamoyilga asoslangan: biznesingiz uchun marketing aniq natija keltiradigan sarmoya bo'lishi darkor.",
+    "kicker": "Артыкчылыктарыбыз — 4 пункт",
+    "h2": "Маркетинг — <em>чыгым эмес</em>, инвестиция болушу керек.",
+    "sub": "<b>Imor Agency мамилеси</b> ушул принципке негизделген: маркетинг сиздин бизнесиңизге так натыйжа алып келе турган инвестиция болушу керек.",
     "items": [
       {
-        "title": "Aniq ixtisoslashuv",
-        "desc": "Faqat ko'chmas mulk sohasidagi 5 yillik tajriba. Boshqa nichelar bilan vaqtimizni bo'lmaymiz."
+        "title": "Так адистешүү",
+        "desc": "Бир гана кыймылсыз мүлк тармагында 5 жылдык тажрыйба. Башка нишалар менен убактыбызды бөлбөйбүз."
       },
       {
-        "title": "Real natija",
-        "desc": "Maqsad shunchaki lidlar soni emas, balki real xaridorlar va sotuvlar."
+        "title": "Чыныгы натыйжа",
+        "desc": "Максат — лидердин саны эмес, чыныгы сатып алуучулар жана сатуу."
       },
       {
-        "title": "Audit va nazorat",
-        "desc": "Sotuv bo'limi ishidagi xato va kamchiliklarni aniqlaymiz, jarayonni mustahkamlaymiz."
+        "title": "Аудит жана көзөмөл",
+        "desc": "Сатуу бөлүмүнүн ишиндеги кемчиликтерди табабыз жана процессти бекемдейбиз."
       },
       {
-        "title": "Aniq analitika",
-        "desc": "Faqat raqamlar va real hisobotga asoslangan qarorlar. Hech qanday taxmin yo'q."
+        "title": "Так аналитика",
+        "desc": "Чечимдер бир гана сан жана чыныгы отчётко негизделет. Эч кандай божомолдоо жок."
       }
     ]
   },
   "Services": {
-    "kicker": "Xizmatlarimiz — 5 yo'nalish",
-    "h2": "Performance Marketing — <em>pod-klyuch</em> formatda.",
-    "sub": "<b>Imor Agency</b> siz uchun strategiyadan tizimlashtirishgacha to'liq performance marketing xizmatlarini ko'rsatadi. Har bir bo'lim alohida emas, yagona tizim sifatida ishlaydi.",
-    "footMeta": "<b>15+ loyiha</b> · 5 yil tajriba · Faqat ko'chmas mulk",
-    "footCta": "Tariflar va paketlar",
-    "viewMore": "Batafsil",
+    "kicker": "Биздин кызматтар — 5 багыт",
+    "h2": "Performance Marketing — <em>толук</em> форматта.",
+    "sub": "<b>Imor Agency</b> сиз үчүн стратегиядан системалаштырууга чейин толук performance-маркетинг кызматтарын көрсөтөт. Ар бир багыт өзүнчө эмес, бирдиктүү система катары иштейт.",
+    "footMeta": "<b>15+ долбоор</b> · 5 жылдык тажрыйба · Бир гана кыймылсыз мүлк",
+    "footCta": "Тарифтер жана пакеттер",
+    "viewMore": "Кеңири",
     "items": [
       {
         "slug": "strategy",
-        "title": "Strategiya va Audit",
-        "shortDesc": "Bozor tahlili, raqobatchilar, individual marketing strategiyasi va sotuv voronkasi auditi.",
+        "title": "Стратегия жана Аудит",
+        "shortDesc": "Рынок жана атаандаштар талдоосу, жекече маркетинг стратегиясы жана сатуу воронкасынын аудити.",
         "list": [
-          "Bozor va raqobatchilar tahlili",
-          "Loyiha uchun individual marketing strategiyasi",
-          "Sotuv voronkasi auditi va samarali kanallarni aniqlash"
+          "Рынок жана атаандаштар талдоосу",
+          "Долбоор үчүн жекече маркетинг стратегиясы",
+          "Сатуу воронкасынын аудити жана натыйжалуу каналдарды аныктоо"
         ]
       },
       {
         "slug": "content-smm",
-        "title": "Kontent & SMM",
-        "shortDesc": "Sotuvga yo'naltirilgan kontent-plan, ijtimoiy tarmoqlarni professional yuritish, brending va upakovka.",
+        "title": "Контент жана SMM",
+        "shortDesc": "Сатууга багытталган контент-план, социалдык тармактарды кесипкөй жүргүзүү, брендинг жана таңгактоо.",
         "list": [
-          "Sotuvga yo'naltirilgan kontent-plan",
-          "Ijtimoiy tarmoqlarni professional yuritish",
-          "Brending va upakovka"
+          "Сатууга багытталган контент-план",
+          "Социалдык тармактарды кесипкөй жүргүзүү",
+          "Брендинг жана таңгактоо"
         ]
       },
       {
         "slug": "production",
-        "title": "Production",
-        "shortDesc": "Videolar, Reels, motion va grafik kontent ishlab chiqarish.",
+        "title": "Продакшн",
+        "shortDesc": "Видео, Reels, motion жана графикалык контент өндүрүү.",
         "list": [
-          "Videolar syomkasi va montaji",
-          "Professional Reels va kreativ videolar",
-          "Dinamik motion videolar va grafik dizayn"
+          "Видеолорду тартуу жана монтаждоо",
+          "Кесипкөй Reels жана креативдүү видеолор",
+          "Динамикалык motion-видеолор жана графикалык дизайн"
         ]
       },
       {
         "slug": "system",
-        "title": "Tizimlashtirish",
-        "shortDesc": "Xodimlarni o'qitish, CRM sozlash va shaffof hisobotlar.",
+        "title": "Системалаштыруу",
+        "shortDesc": "Кызматкерлерди окутуу, CRM орнотуу жана тунук отчёттор.",
         "list": [
-          "Xodimlarni o'qitish (1 oyda 1 marta)",
-          "CRM tizimini sozlash va integratsiya qilish",
-          "Muntazam shaffof hisobotlar"
+          "Кызматкерлерди окутуу (айына 1 жолу)",
+          "CRM системасын орнотуу жана интеграциялоо",
+          "Дайыма тунук отчёттор"
         ]
       },
       {
         "slug": "target",
-        "title": "Target",
-        "shortDesc": "Facebook & Instagram targetli reklama, lidogeneratsiya va optimizatsiya.",
+        "title": "Таргет",
+        "shortDesc": "Facebook жана Instagram'дагы таргеттик жарнама, лидогенерация жана оптимизация.",
         "list": [
-          "Targetli reklama (Facebook & Instagram)",
-          "Lidogeneratsiya (sifatli mijozlar oqimi)",
-          "Reklama tahlili va optimizatsiyasi (CPL, ROMI)"
+          "Таргеттик жарнама (Facebook & Instagram)",
+          "Лидогенерация (сапаттуу кардарлардын агымы)",
+          "Жарнама талдоосу жана оптимизациясы (CPL, ROMI)"
         ]
       },
       {
         "slug": "sales",
-        "title": "Sotuv",
-        "shortDesc": "Sotuv jarayoni auditi, konversiya optimizatsiyasi va sotuv bo'limi bilan yaqin hamkorlik.",
+        "title": "Сатуу",
+        "shortDesc": "Сатуу процессинин аудити, конверсия оптимизациясы жана сатуу бөлүмү менен тыгыз кызматташтык.",
         "list": [
-          "Sotuv voronkasi va skript auditi",
-          "Konversiya optimizatsiyasi (lid → tashrif → sotuv)",
-          "Sotuv bo'limi bilan kunlik aloqa va monitoring"
+          "Сатуу воронкасы жана скрипт аудити",
+          "Конверсия оптимизациясы (лид → келүү → сатуу)",
+          "Сатуу бөлүмү менен күнүмдүк байланыш жана мониторинг"
         ]
       }
     ]
   },
   "Process": {
-    "kickerHtml": "Biz qanday <b>ishlaymiz</b>",
-    "h2": "6 bosqichli <em>tizim</em> — natijaga olib boradi.",
-    "sub": "Har bir loyiha analizdan optimizatsiyagacha aniq jarayondan o'tadi. Bu sizga shaffoflik, bizga esa takrorlanadigan natija beradi.",
-    "outputLabel": "30–35 kun ichida",
-    "outputTextPart1": "Birinchi sifatli lidlar —",
-    "outputTextAccent": "real raqamlar bilan.",
-    "outputCta": "Konsultatsiya olish",
+    "kickerHtml": "Кантип <b>иштейбиз</b>",
+    "h2": "Натыйжага алып баруучу 6 баскычтуу <em>система</em>.",
+    "sub": "Ар бир долбоор талдоодон оптимизацияга чейин так процесстен өтөт. Бул сизге тунуктук, бизге кайталануучу натыйжа берет.",
+    "outputLabel": "30–35 күндүн ичинде",
+    "outputTextPart1": "Биринчи сапаттуу лидер —",
+    "outputTextAccent": "чыныгы сандар менен.",
+    "outputCta": "Консультация алуу",
     "steps": [
       {
-        "title": "Analiz",
-        "desc": "Bozor, raqobatchilar va maqsadli auditoriya tahlili.",
-        "meta": "5–7 kun"
+        "title": "Талдоо",
+        "desc": "Рынок, атаандаштар жана максаттуу аудиториянын талдоосу.",
+        "meta": "5–7 күн"
       },
       {
-        "title": "Strategiya",
-        "desc": "Aniq KPI va harakatlar rejasi.",
-        "meta": "7 kun"
+        "title": "Стратегия",
+        "desc": "Так KPI жана аракет планы.",
+        "meta": "7 күн"
       },
       {
-        "title": "Upakovka",
-        "desc": "Vizual qadoqlash, dizayn va Landing Page tayyorlash.",
-        "meta": "10 kun"
+        "title": "Таңгактоо",
+        "desc": "Визуалдык таңгактоо, дизайн жана Landing Page даярдоо.",
+        "meta": "10 күн"
       },
       {
-        "title": "Production",
-        "desc": "Video, foto va grafik kontent ishlab chiqarish.",
-        "meta": "14 kun"
+        "title": "Продакшн",
+        "desc": "Видео, фото жана графикалык контент өндүрүү.",
+        "meta": "14 күн"
       },
       {
-        "title": "Trafik",
-        "desc": "Target reklama va platformalarni ishga tushirish.",
+        "title": "Трафик",
+        "desc": "Таргеттик жарнаманы жана платформаларды ишке киргизүү.",
         "meta": "Live"
       },
       {
-        "title": "Optimizatsiya",
-        "desc": "Natijalar tahlili, hisobot va jarayonni kuchaytirish.",
-        "meta": "Doimiy"
+        "title": "Оптимизация",
+        "desc": "Натыйжаларды талдоо, отчёт жана процессти бекемдөө.",
+        "meta": "Дайыма"
       }
     ]
   },
   "Cases": {
-    "kicker": "Keyslar — real raqamlar",
-    "h2": "5 ta loyiha — <em>556+ sifatli lid</em>, $1 dan boshlangan CPL.",
-    "stat1Label": "Loyiha",
-    "stat2Label": "Tajriba",
-    "stat2Suffix": "yil",
-    "leadsSuffix": "lid",
-    "salesLabel": "sotuv",
-    "results": "Natijalar",
-    "viewAll": "Barcha loyihalar",
-    "viewCase": "Keysni ko'rish",
-    "backToList": "Barcha loyihalar",
-    "aboutProject": "Loyiha haqida",
-    "service": "Xizmat",
-    "role": "Rol",
-    "roleValue": "Marketing hamkori"
+    "kicker": "Кейстер — чыныгы сандар",
+    "h2": "5 долбоор — <em>556+ сапаттуу лид</em>, $1'дан башталган CPL.",
+    "stat1Label": "Долбоор",
+    "stat2Label": "Тажрыйба",
+    "stat2Suffix": "жыл",
+    "leadsSuffix": "лид",
+    "salesLabel": "сатуу",
+    "results": "Натыйжалар",
+    "viewAll": "Бардык долбоорлор",
+    "viewCase": "Кейсти көрүү",
+    "backToList": "Бардык долбоорлор",
+    "aboutProject": "Долбоор жөнүндө",
+    "service": "Кызмат",
+    "role": "Ролу",
+    "roleValue": "Маркетинг өнөктөшү"
   },
   "Pricing": {
-    "kicker": "Tariflar — 3 paket",
-    "h2": "Sizning loyihangizga <em>mos</em> paket tanlang.",
-    "sub": "Har oyda — to'liq tsikl. Target reklama uchun byudjet tarif ichiga kirmaydi va alohida hisoblanadi.",
-    "perMonth": "oyiga",
-    "popular": "Eng mashhur",
-    "cta": "Tanlash",
-    "tableTitle": "Kontent <em>hajmi</em> — har oy bo'yicha",
-    "feature": "Imkoniyat",
-    "priceRow": "Narx"
+    "kicker": "Тарифтер — 3 пакет",
+    "h2": "Долбооруңузга <em>дал келген</em> пакетти тандаңыз.",
+    "sub": "Ар айда — толук цикл. Таргеттик жарнаманын бюджети тарифке кирбейт жана өзүнчө эсептелет.",
+    "perMonth": "айына",
+    "popular": "Эң популярдуу",
+    "cta": "Тандоо",
+    "tableTitle": "<em>Контент</em> көлөмү — ар айлык",
+    "feature": "Мүмкүнчүлүк",
+    "priceRow": "Баасы"
   },
   "FinalCta": {
-    "kicker": "O'sish uchun birinchi qadam",
-    "h2": "Loyihangiz uchun <em>strategiya</em> bir qo'ng'iroq narida.",
-    "sub": "<b>30 daqiqalik bepul konsultatsiya</b> davomida loyihangizni tahlil qilamiz, sotuv voronkasidagi nuqsonlarni topamiz va aniq yo'l xaritasini taklif qilamiz.",
-    "meta1": "Loyiha · 5 yil",
-    "meta2": "CPL — eng past",
-    "meta3": "Bozorda tajriba",
-    "yearsShort": "yil",
-    "rLabel": "Hoziroq bog'laning",
-    "phoneLabel": "Asosiy raqam",
-    "phoneHours": "Ish vaqti: 09:00 – 19:00",
-    "footTag": "O'sish uchun <i>birinchi qadamni</i> qo'ying."
+    "kicker": "Өсүүгө биринчи кадам",
+    "h2": "Долбооруңуз үчүн <em>стратегия</em> бир чалуу алыста.",
+    "sub": "<b>30 мүнөттүк акысыз консультация</b> учурунда долбооруңузду талдайбыз, сатуу воронкасынын кемчиликтерин табабыз жана так жол картасын сунуштайбыз.",
+    "meta1": "Долбоор · 5 жыл",
+    "meta2": "CPL — эң төмөн",
+    "meta3": "Рыноктогу тажрыйба",
+    "yearsShort": "жыл",
+    "rLabel": "Азыр байланышыңыз",
+    "phoneLabel": "Негизги номер",
+    "phoneHours": "Иш убактысы: 09:00 – 19:00",
+    "footTag": "Өсүү үчүн <i>биринчи кадамды</i> таштаңыз."
   },
   "Footer": {
-    "company": "Kompaniya",
-    "services": "Xizmatlar",
-    "contact": "Aloqa",
-    "tagline": "Biz faqatgina SMM emas, balki biznesingiz uchun to'liq marketing tizimini quramiz. Performance marketing va brending orqali savdoni oshiring.",
-    "address": "Mirzo-Ulug'bek tumani, Shahriobod ko'chasi, 13, Toshkent, O'zbekiston",
-    "rights": "Barcha huquqlar himoyalangan.",
-    "madeIn": "Made in Toshkent"
+    "company": "Компания",
+    "services": "Кызматтар",
+    "contact": "Байланыш",
+    "tagline": "Биз жөн гана SMM эмес, бизнесиңиз үчүн толук маркетинг системасын курабыз. Performance-маркетинг жана брендинг аркылуу сатууну жогорулатабыз.",
+    "address": "Мирзо-Улугбек району, Шахриабад көчөсү 13, Ташкент, Өзбекстан",
+    "rights": "Бардык укуктар корголгон.",
+    "madeIn": "Made in Tashkent"
   },
   "LeadForm": {
-    "title": "Bepul konsultatsiya",
-    "subtitle": "Telefon raqamingizni qoldiring — 1 soat ichida bog'lanamiz.",
-    "name": "Ismingiz",
-    "phone": "Telefon raqam",
-    "project": "Loyiha haqida (ixtiyoriy)",
-    "submit": "Yuborish",
-    "submitting": "Yuborilmoqda...",
-    "success": "Rahmat! Tez orada bog'lanamiz.",
-    "error": "Xatolik yuz berdi. Iltimos, qayta urinib ko'ring.",
-    "errorRequired": "Bu maydon majburiy",
-    "errorPhone": "Telefon raqam noto'g'ri"
+    "title": "Акысыз консультация",
+    "subtitle": "Телефон номериңизди калтырыңыз — 1 саатын ичинде байланышабыз.",
+    "name": "Атыңыз",
+    "phone": "Телефон номери",
+    "project": "Долбоор жөнүндө (милдеттүү эмес)",
+    "submit": "Жөнөтүү",
+    "submitting": "Жөнөтүлүүдө...",
+    "success": "Рахмат! Жакында байланышабыз.",
+    "error": "Ката кетти. Сураныч, кайра аракет кылыңыз.",
+    "errorRequired": "Бул талаа милдеттүү",
+    "errorPhone": "Телефон номери туура эмес"
   },
   "NotFound": {
-    "title": "Sahifa topilmadi",
-    "desc": "Siz qidirayotgan sahifa mavjud emas yoki ko'chirilgan.",
-    "back": "Bosh sahifaga qaytish"
+    "title": "Бет табылган жок",
+    "desc": "Сиз издеген бет жок же башка жакка көчүрүлгөн.",
+    "back": "Башкы бетке кайтуу"
   }
 }
